@@ -18,7 +18,7 @@ HTML5, CSS3, SASS, Bootstrap 4, JavaScript, JQuery, React.js, Framework7, AJAX, 
 ***
 * **( 2017 ) C# / Object-Oriented Programming -** Microsoft Innovation Center Armenia, Yerevan (Armenia)
 * **( 2008-2013 ) Thermal Power Engineering -** State Engineering University of Armenia, Yerevan (Armenia)
-* **( 200-2010 ) Accounting -** Yerevan basic college of Haybusak University, Yerevan (Armenia)
+* **( 2007-2010 ) Accounting -** Yerevan basic college of Haybusak University, Yerevan (Armenia)
 
 ### Languages
 ***
